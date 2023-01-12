@@ -23,7 +23,7 @@ ZeroCho gitchat socket prac
 #### 동영상
 
   * [youtube ZeroCho 12장 1부](https://www.youtube.com/watch?v=jw1RX9ChkdM&t=5s)
-  * [youtube ZeroCho 12 2부](https://www.youtube.com/watch?v=v1hbt17K5Ro)
+  * [youtube ZeroCho 12장 2부](https://www.youtube.com/watch?v=v1hbt17K5Ro)
  
  <br/><br/>
  
