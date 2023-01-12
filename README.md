@@ -9,6 +9,7 @@ ZeroCho gitchat socket prac
 * socket.io
 * multer (휘발성 저장소)
 * 3계층
+* ejs
 
 
 
