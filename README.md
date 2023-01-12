@@ -15,7 +15,7 @@ ZeroCho gitchat socket prac
 <br/><br/>
 
 #### 공부한 내용
-  * [](https://pangeei-h.tistory.com/entry/Web-Socket-%EC%B1%84%ED%8C%85%EB%B0%A9-%EB%A7%8C%EB%93%A4%EA%B8%B04)
+  * [t-story](https://pangeei-h.tistory.com/entry/Web-Socket-%EC%B1%84%ED%8C%85%EB%B0%A9-%EB%A7%8C%EB%93%A4%EA%B8%B04)
 
 <br/><br/>
 
